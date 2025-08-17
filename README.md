@@ -2,7 +2,7 @@
 
 > 🧠 A comprehensive EDA project on Uber ride data, revealing business insights, customer behaviors, and operational gaps.
 
-![Dashboard Preview](./assets/preview.png)
+![Dashboard Preview](./assets/preview.gif)
 
 ---
 
