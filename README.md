@@ -13,6 +13,7 @@ We also provide an interactive analytics dashboard built with **Voila** and **ip
 
 ## 🗂️ Table of Contents
 
+- [📁 Repository Structure](#-repository-structure)
 - [📁 Dataset](#-dataset)
 - [🎯 Objectives](#-objectives)
 - [📊 EDA Summary](#-eda-summary)
@@ -24,21 +25,20 @@ We also provide an interactive analytics dashboard built with **Voila** and **ip
 - [📄 License](#-license)
 
 ---
+## 📁 Repository Structure
+```
+├── EDA_on_Uber_dataset.ipynb # Main EDA notebook
+├── uber_dashboard_voila.ipynb # Interactive dashboard version for Voila
+├── ncr_ride_bookings.csv # Dataset 
+└── README.md # This file
+```
+---
 
 ## 📁 Dataset
 
 - 📌 **Source:** [Kaggle - Uber Ride Analytics Dashboard](https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard)
 - 💾 **Size**: ~140,000 rows 
 - 📚 **Features:** Booking ID, Status, Payment Method, Distance, Ratings, etc.
-
----
-
-## 📁 Repository Structure
-.
-├── EDA_on_Uber_dataset.ipynb # Main EDA notebook
-├── uber_dashboard_voila.ipynb # Interactive dashboard version for Voila
-├── ncr_ride_bookings.csv # Dataset 
-└── README.md # This file
 
 ---
 
@@ -150,5 +150,4 @@ This will open a browser window at ```http://localhost:8866``` with an interacti
 
 ## 📄 License
 
-This project is licensed under the MIT License.
-
+This project is for educational use. Dataset belongs to the original Kaggle publisher.
